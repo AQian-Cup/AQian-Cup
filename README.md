@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi I'm AQian!
 
-<!--
-**Cupkiller-vip/Cupkiller-vip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nice to meet you!
 
-Here are some ideas to get you started:
+I am a front-end developer, familiar with JavaScript and TypeScript, specializing in Vue and Nuxt, and have some experience developing larger projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a back-end learner, currently learning Go and database related, and I also have some Node development experience such as Koa.
+
+I hope I can become a full-stack engineer who can create interesting things, welcome to communicate and cooperate with me.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cupkiller-vip&theme=dark"/>
+</div>
+
+### What I'm doing:
+
+- Learning Go and PostgreSQL
+- Building my personal blog
+- Implementing a full-stack Todo project
+- Learning a foreign language such as English or Japanese
+
+### What I'm going to do:
+
+- Learn Docker and its related
+- Learn to use Redis with other databases
+- Implement a resume editor
