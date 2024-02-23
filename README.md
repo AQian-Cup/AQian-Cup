@@ -9,7 +9,7 @@ I am also a back-end learner, currently learning Go and database related, and I 
 I hope I can become a full-stack engineer who can create interesting things, welcome to communicate and cooperate with me.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cupkiller-vip&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AQian-Cup&theme=dark"/>
 </div>
 
 ### What I'm doing:
